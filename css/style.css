@@ -1,0 +1,19 @@
+body{
+  font-size: 18px;}
+
+header{
+  background-color: burlywood;
+}
+
+.main{
+  background-color: tomato;
+}
+
+h1{
+  font-size: 1.5em;
+  
+}
+
+footer{
+  background-color: wheat;
+}
